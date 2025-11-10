@@ -1,2 +1,2 @@
-# Termux-Killer
+# Killer
 Termux Killer ( Make Victim Termux Useless!!! )
